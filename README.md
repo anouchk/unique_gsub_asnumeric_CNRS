@@ -1,4 +1,4 @@
-# COMPTER LES PERSONNELS ET CREDITS CNRS DES LABOS
+# AGREGER LES PERSONNELS ET CREDITS CNRS PAR STATUTS DE LABOS
 
 Pour calculer le montant des soutiens CNRS par type d'unité de recherche, j'ai utilisé les fonctions :
 - **unique** pour dédoublonner le fichier en ne gardant qu'une ligne par UMR distincte
